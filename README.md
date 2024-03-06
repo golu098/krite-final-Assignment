@@ -24,3 +24,4 @@ To run an HTML, CSS, and JavaScript project, you typically need a web browser. H
 
 7. **Deployment**:If you want to share your project with others, you can deploy it to a web server. There are many ways to do this, including using hosting services like GitHub Pages, Netlify, or Vercel. These platforms allow you to host static websites for free or at a minimal cost.
 
+Here is the Live Deployed Link :- https://krite-final-assignment.vercel.app/
